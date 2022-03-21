@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JonathanGithumbi
 - 👀 I’m interested in Artificial Intelligence and IoT, Web Development, Mobile Application Development
 - 🌱 I’m currently learning Neural Networks
-- 💞️ I’m looking to collaborate on Machine Learning and NN Projects
 - 📫 How to reach me jonathan.m.githumbi@gmail.com
 
 <!---
