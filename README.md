@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jonathan M Githumbi
+- 👋 Hi, I’m Jonathan M Githumbi 
 - 👀 I'm an Information Technology Graduate with a passion for software development i like building systems that solve real world problems, and personal systems that are just for fun  
-- I have a strong knowledge foundation in programming so i can pick up new technologies and languages pretty quick
+- I like to develop systemms on the .NET platform using C#, but i also do python and PHP
 - 📫 How to reach me jonathan.m.githumbi@gmail.com
 - LinkedIn: www.linkedin.com/in/jonathan-m-g-659760233
 <!---
