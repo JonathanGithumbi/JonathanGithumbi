@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan M Githumbi 
 - 👀 I'm an Information Technology Graduate with a passion for software development i like building systems that solve real world problems, and personal systems that are just for fun  
-- I like to develop systemms on the .NET platform using C#, but i also do python and PHP
+- I develop web applications in Django and Codeigniter
 - 📫 How to reach me jonathan.m.githumbi@gmail.com
 - LinkedIn: www.linkedin.com/in/jonathan-m-g-659760233
 <!---
