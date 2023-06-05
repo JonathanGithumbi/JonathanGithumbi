@@ -1,3 +1,5 @@
+https://www.linkedin.com/in/jonathan-githumbi/
+
 - 👋 Hi, I’m Jonathan Githumbi 
 - I'm a results driven full stack web developer, with more than 3 years experience developing robust and functional web applications in Django that span various industrties such as medicine, education and advertisement.
 - I have experience in systems intergration using Django REST API and SOAP servers to create data pipelines between systems.  
