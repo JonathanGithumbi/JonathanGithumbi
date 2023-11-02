@@ -1,11 +1,9 @@
-https://www.linkedin.com/in/jonathan-githumbi/
 
-- 👋 Hi, I’m Jonathan Githumbi 
-- I'm a results driven full stack web developer, with more than years of experience developing robust and functional web applications in Django that span various industrties such as medicine, education and advertisement.
-- I have experience in systems intergration using Django REST API and SOAP servers to create data pipelines between systems.  
-- I am always happy to undertake new projects and learn new and interesting technologies.
-- 📫 How to reach me jonathan.m.githumbi@gmail.com
-
+Hi there! 
+I am a full-stack web developer with years of experience creating functional and reliable web applications. I have worked with various frameworks including Django, CodeIgniter, and Odoo. I have developed web applications for different industries such as medicine, education, and advertisement. 
+Additionally, I specialize in systems integration using Django REST API and SOAP servers to establish data pipelines between systems. I love taking on new projects and learning about new technologies. 
+If you need to reach me, please feel free to contact me at: jonathan.m.githumbi@gmail.com.
+LinkedIn:https://www.linkedin.com/in/jonathan-githumbi/
 <!---
 JonathanGithumbi/JonathanGithumbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
