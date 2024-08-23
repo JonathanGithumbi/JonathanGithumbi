@@ -1,7 +1,6 @@
 
-Hi there 
-I am a web developer with years of experience creating functional and reliable web applications. 
-I build applications using various frameworks including Django, CodeIgniter, and more recently Odoo. 
+Hi there 🙋‍♂️
+🤖Developer with years of experience creating functional and reliable web applications. 
 
 I love taking on interesting projects and learning about new technologies. 
 If you need to reach me, feel free to contact me at: 
